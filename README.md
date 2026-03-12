@@ -1,10 +1,10 @@
-# 🚀 Meu Portfólio Pessoal
+#  Meu Portfólio Pessoal
 
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para centralizar minha trajetória, projetos e habilidades como desenvolvedor Front-End.
 
 ---
 
-## 📝 Sobre o Projeto
+## Sobre o Projeto
 
 Este portfólio é uma vitrine digital onde apresento quem eu sou, o que estou estudando e os projetos que venho desenvolvendo. Como estudante de **Sistemas de Informação** (23 anos), meu foco atual é o ecossistema **React** e o desenvolvimento de interfaces modernas, performáticas e responsivas.
 
@@ -25,7 +25,7 @@ Para garantir velocidade no desenvolvimento e performance no carregamento, utili
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - [x] **Design Responsivo:** Adaptado para dispositivos móveis, tablets e desktops.
 - [x] **Seção Sobre Mim:** Detalhes sobre minha formação acadêmica e objetivos de carreira.
@@ -35,56 +35,20 @@ Para garantir velocidade no desenvolvimento e performance no carregamento, utili
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-Se você deseja rodar este projeto localmente, siga os passos abaixo:
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-
-2. **Acesse a pasta do projeto:**
-   ```bash
-   cd seu-repositorio
-   ```
-
-3. **Instale as dependências:**
-   ```bash
-   npm install
-   # ou
-   pnpm install
-   # ou
-   yarn install
-   ```
-
-4. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm run dev
-   ```
-
-5. **Acesse no navegador:**
-   O Vite geralmente disponibiliza o projeto em `http://localhost:5173`.
-
----
 
 ## 🎯 Objetivos de Carreira
 
 Atualmente, estou focado em:
 - Consolidar conhecimentos em **React** e **Next.js**.
 - Atuar como **Desenvolvedor Front-End Júnior**.
-- No longo prazo, busco estabilidade através de concursos públicos na área de TI, visando cargos de nível superior para aliar qualidade de vida e crescimento profissional.
 
 ---
 
-## 📬 Contato
+##  Contato
 
 Sinta-se à vontade para entrar em contato comigo para conversarmos sobre tecnologia ou oportunidades:
 
-- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-- **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+- LinkedIn: www.linkedin.com/in/valfrides-fernandes-de-freitas-279596236
+- E-mail: valfridesfreitas29@gmail.com
 
 ---
-
-Feito com ❤️ por [Seu Nome]
