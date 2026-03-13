@@ -1,4 +1,4 @@
-import Header from "./components/Header/index"; // ou apenas "./components/Header"
+import Header from "./components/Header/index"; 
 import Hero from "./components/Hero/index";
 import Footer from "./components/Footer/index";
 
