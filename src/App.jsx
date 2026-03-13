@@ -1,6 +1,6 @@
 import "./App.css";
 
-import Header from "./components/Header";
+import Header from "./components/HeaderTemp";
 import Hero from "./components/hero";
 import Footer from "./components/footer";
 
