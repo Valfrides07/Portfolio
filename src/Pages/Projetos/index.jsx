@@ -39,7 +39,11 @@ function Projetos() {
 
       title: "Projeto 3",
 
-      // image: "/caminho-para-imagem2.jpg",
+      image: "/image-projetos/print-Hover.png",
+
+      description: [
+        "É site de visualização jogos que ajuda você a descobrir qual é a melhor opção de loja, valores e avaliações de jogos. Utilizando a API RAWG API v1.0, a ideia é reunir todas as informações relevantes de um jogo em um lugar só.",
+      ],
 
       techs: ["html", "css", "js"],
     },
